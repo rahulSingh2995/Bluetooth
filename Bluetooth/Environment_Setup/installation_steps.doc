@@ -1,0 +1,6 @@
+﻿sudo apt-get update
+sudo apt-get install python-pip python-dev ipython
+sudo apt-get install bluetooth libbluetooth-dev
+# now disconnect corporate VPN
+		sudo pip3 install pybluez :- if not worked then use
+pip install pyblueZ
